@@ -1,4 +1,4 @@
-#About this repository
+# About this repository
 
 *This is a simple website made in react . If you want to run in your local machine follow the below steps and you will be good to go.*
 
